@@ -1,0 +1,12 @@
+{
+  "name": "becon-relay",
+  "version": "0.1.0",
+  "description": "Uses WebSockets to relay data from inside the walls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "gavinhsmith (https://gavinhsmith.com/)",
+  "license": "MIT"
+}
